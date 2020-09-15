@@ -26,5 +26,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funkrusha/react-portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Martin Schweizer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Funkrusha/react-portfolio/issues"
+  },
+  "homepage": "."
 }
